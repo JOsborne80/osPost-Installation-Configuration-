@@ -165,3 +165,18 @@ Third we have Teams in osTicket.
 <p>
 <img src="https://i.imgur.com/5xtsa7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+  4> Configure -Help Topics in osTicket to help agents gauge the impacton on business. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/V0ziesJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/5xtsa7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
