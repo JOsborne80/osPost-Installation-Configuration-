@@ -136,3 +136,7 @@ Third we have Teams in osTicket.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/39vzjdt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
