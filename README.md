@@ -50,7 +50,7 @@ Hi, this is my second project on github. I hope you guys enjoy the flow of the w
 <p>
 <img src="https://i.imgur.com/p7QHFff.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+ri
 <p>
 <img src="https://i.imgur.com/93T84WU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -68,7 +68,18 @@ Second we have Departments. Thanks for getting this far in my walkthrough!
 <p>
 <img src="https://i.imgur.com/z6LQfzk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Third we have Teams in osTicket. 
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/VOq9JYg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
