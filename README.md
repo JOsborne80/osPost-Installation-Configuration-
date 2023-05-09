@@ -92,5 +92,13 @@ Third we have Teams in osTicket.
 </p>
 
 <p>2> Configure -Modify Authentication of Agents(workers) and Users (customers)
+  
+  We will begin with Agents.
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/p0UWqJ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
