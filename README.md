@@ -156,3 +156,12 @@ Third we have Teams in osTicket.
 <p>
 <img src="https://i.imgur.com/QEu1P3c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+  Here you have an example of what serverity levels a custonmer, helpdesk agent, or admin can choose. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5xtsa7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
