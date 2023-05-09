@@ -102,3 +102,15 @@ Third we have Teams in osTicket.
 <img src="https://i.imgur.com/p0UWqJ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>2> Configure -Modify Authentication of Agents(workers) 
+  
+  Here we have what type of department access the agent can have. 
+</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/n9kx9jk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
