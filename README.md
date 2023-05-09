@@ -23,10 +23,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Item 1> Configure -Roles, Departments, and Teams 
-- Item 2> Configure -Modify Authentication
-- Item 3> Configure -Agents(workers), Users (customers)
-- Item 4> Configure -SLA (service level agreements)
-- Item 5> Configure -Help Topics
+- Item 2> Configure -Modify Authentication of Agents(workers) and Users (customers)
+- Item 3> Configure -SLA (service level agreements)
+- Item 4> Configure -Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -92,3 +91,6 @@ Third we have Teams in osTicket.
 <img src="https://i.imgur.com/gpZF9Gu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>2> Configure -Modify Authentication of Agents(workers) and Users (customers)
+</p>
+<br />
