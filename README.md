@@ -130,3 +130,9 @@ Third we have Teams in osTicket.
 <img src="https://i.imgur.com/NYUin3s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+
+<p>
+  3> Configure -SLA (service level agreements)
+</p>
+<br />
+
