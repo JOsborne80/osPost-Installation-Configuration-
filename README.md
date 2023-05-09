@@ -113,4 +113,11 @@ Third we have Teams in osTicket.
 <img src="https://i.imgur.com/n9kx9jk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+  Configure -Modify Authentication of  Users (customers)
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/7r62HNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
