@@ -147,3 +147,12 @@ Third we have Teams in osTicket.
 <p>
 <img src="https://i.imgur.com/auJO9Lj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+ You can also add a Grace Period and a Scheduled time frame of completion. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QEu1Pc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
