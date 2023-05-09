@@ -56,9 +56,14 @@ Hi, this is my second project on github. I hope you guys enjoy the flow of the w
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Second we have Departments. Thanks for getting this far in my walkthrough!
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/fAYu0gi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
