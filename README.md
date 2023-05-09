@@ -180,3 +180,10 @@ Third we have Teams in osTicket.
 <img src="https://i.imgur.com/RUjsruy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+
+<p>
+ My second lab here on GitHub and proud of the small improvements between this and my first! 
+  
+  Have a techy day!
+</p>
+<br />
