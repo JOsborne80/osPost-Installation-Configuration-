@@ -140,3 +140,10 @@ Third we have Teams in osTicket.
 <img src="https://i.imgur.com/39vzjdt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+<p>
+  We then add a serverity level at which the ticket needs to be carried out. 
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/auJO9Lj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
