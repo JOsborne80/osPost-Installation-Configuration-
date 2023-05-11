@@ -47,7 +47,7 @@ Hi, this is my second project on github. I hope you guys enjoy the flow of the w
 <p>
 <img src="https://i.imgur.com/p7QHFff.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-ri
+
 <p>
 <img src="https://i.imgur.com/93T84WU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
